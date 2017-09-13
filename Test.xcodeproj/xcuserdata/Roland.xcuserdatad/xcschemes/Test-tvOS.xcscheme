@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2AC5EA8C1F699C2D00B3AA8A"
-               BuildableName = "Test.app"
-               BlueprintName = "Test"
+               BlueprintIdentifier = "2AC5EAA91F699F6500B3AA8A"
+               BuildableName = "Test-tvOS.app"
+               BlueprintName = "Test-tvOS"
                ReferencedContainer = "container:Test.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2AC5EA8C1F699C2D00B3AA8A"
-            BuildableName = "Test.app"
-            BlueprintName = "Test"
+            BlueprintIdentifier = "2AC5EAA91F699F6500B3AA8A"
+            BuildableName = "Test-tvOS.app"
+            BlueprintName = "Test-tvOS"
             ReferencedContainer = "container:Test.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -55,9 +55,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2AC5EA8C1F699C2D00B3AA8A"
-            BuildableName = "Test.app"
-            BlueprintName = "Test"
+            BlueprintIdentifier = "2AC5EAA91F699F6500B3AA8A"
+            BuildableName = "Test-tvOS.app"
+            BlueprintName = "Test-tvOS"
             ReferencedContainer = "container:Test.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -74,9 +74,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2AC5EA8C1F699C2D00B3AA8A"
-            BuildableName = "Test.app"
-            BlueprintName = "Test"
+            BlueprintIdentifier = "2AC5EAA91F699F6500B3AA8A"
+            BuildableName = "Test-tvOS.app"
+            BlueprintName = "Test-tvOS"
             ReferencedContainer = "container:Test.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
