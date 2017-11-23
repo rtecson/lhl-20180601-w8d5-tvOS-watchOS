@@ -25,5 +25,10 @@ extension Screen2ViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        #if os(iOS)
+            // iOS code here
+        #elseif os(tvOS)
+            // tvOS code here
+        #endif
     }
 }
